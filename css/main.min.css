@@ -1,0 +1,2 @@
+body{background:#dedede;color:#634f5f;font-weight:700;font-family:"Roboto",sans-serif}header{background-color:#634f5f;color:#dedede;padding:1em}header h1{font-size:3em;font-weight:300;width:80%;margin:0 auto}header h2{font-size:2.75em;font-weight:400;color:#a6cbbe;width:80%;margin:0 auto}main{width:80%;margin:0 auto}main h2{font-size:2em;font-weight:get-map(("light":300,"reg":400,"med":700,"bold":900), reg)}main p{line-height:1.3em;color:#89aaa9}main p a{color:#a46877}main p a:hover{color:#e08976}
+/*# sourceMappingURL=main.min.css.map */
